@@ -1,0 +1,239 @@
+{
+  "abc": {
+    "schemaVersion": 1,
+    "generatorVersion": 1,
+    "title": "Mandala abc",
+    "seed": "abc",
+    "background": "#fffaf2",
+    "nextLayerNumber": 8,
+    "layers": [
+      {
+        "id": "layer-1",
+        "name": "Disque",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 292.75,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#e0a458",
+          "opacity": 1
+        },
+        "kind": "disk",
+        "radius": 0.16386365141719578
+      },
+      {
+        "id": "layer-2",
+        "name": "Anneau",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 147.07,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#e0a458",
+          "opacity": 1
+        },
+        "kind": "circle-ring",
+        "orbitRadius": 0.8122256519366056,
+        "circleRadius": 0.08777434806339444,
+        "circleCount": 10
+      },
+      {
+        "id": "layer-3",
+        "name": "Fleur",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 341.75,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#e0a458",
+          "opacity": 1
+        },
+        "kind": "flower",
+        "outerRadius": 0.7686105775963515,
+        "innerRatio": 0.29252199549693614,
+        "petalCount": 16
+      },
+      {
+        "id": "layer-4",
+        "name": "Anneau",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 350.82,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#0b6e4f",
+          "opacity": 1
+        },
+        "kind": "circle-ring",
+        "orbitRadius": 0.5404643932455219,
+        "circleRadius": 0.08582683024695144,
+        "circleCount": 12
+      },
+      {
+        "id": "layer-5",
+        "name": "Anneau",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 350.21,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#0b6e4f",
+          "opacity": 1
+        },
+        "kind": "circle-ring",
+        "orbitRadius": 0.39320726558985186,
+        "circleRadius": 0.08189456877065823,
+        "circleCount": 5
+      },
+      {
+        "id": "layer-6",
+        "name": "Anneau",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 292.07,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#0b6e4f",
+          "opacity": 1
+        },
+        "kind": "circle-ring",
+        "orbitRadius": 0.2852023695884272,
+        "circleRadius": 0.03274641889613122,
+        "circleCount": 16
+      },
+      {
+        "id": "layer-7",
+        "name": "Fleur",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 177.91,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#d1345b",
+          "opacity": 1
+        },
+        "kind": "flower",
+        "outerRadius": 0.18,
+        "innerRatio": 0.4159771956084296,
+        "petalCount": 13
+      }
+    ]
+  },
+  "référence-一": {
+    "schemaVersion": 1,
+    "generatorVersion": 1,
+    "title": "Mandala référence-一",
+    "seed": "référence-一",
+    "background": "#fffaf2",
+    "nextLayerNumber": 7,
+    "layers": [
+      {
+        "id": "layer-1",
+        "name": "Disque",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 300.5,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#e0a458",
+          "opacity": 1
+        },
+        "kind": "disk",
+        "radius": 0.3307285966537893
+      },
+      {
+        "id": "layer-2",
+        "name": "Fleur",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 209.04,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#d1345b",
+          "opacity": 1
+        },
+        "kind": "flower",
+        "outerRadius": 0.9,
+        "innerRatio": 0.6025932662934065,
+        "petalCount": 8
+      },
+      {
+        "id": "layer-3",
+        "name": "Anneau",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 223.24,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#0b6e4f",
+          "opacity": 1
+        },
+        "kind": "circle-ring",
+        "orbitRadius": 0.6788181313639506,
+        "circleRadius": 0.02947705487255007,
+        "circleCount": 13
+      },
+      {
+        "id": "layer-4",
+        "name": "Fleur",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 301.07,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#0b6e4f",
+          "opacity": 1
+        },
+        "kind": "flower",
+        "outerRadius": 0.5426627972815186,
+        "innerRatio": 0.17673091020435094,
+        "petalCount": 11
+      },
+      {
+        "id": "layer-5",
+        "name": "Anneau",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 22.01,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#d1345b",
+          "opacity": 1
+        },
+        "kind": "circle-ring",
+        "orbitRadius": 0.314621142190881,
+        "circleRadius": 0.06179574233014137,
+        "circleCount": 15
+      },
+      {
+        "id": "layer-6",
+        "name": "Fleur",
+        "visible": true,
+        "locked": false,
+        "rotationDeg": 90.5,
+        "style": {
+          "stroke": "#231f20",
+          "strokeWidth": 0.006,
+          "fill": "#0b6e4f",
+          "opacity": 1
+        },
+        "kind": "flower",
+        "outerRadius": 0.1839902393799275,
+        "innerRatio": 0.44400606118608266,
+        "petalCount": 12
+      }
+    ]
+  }
+}

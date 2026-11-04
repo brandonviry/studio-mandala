@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": 1,
+  "title": "Référence performance V1 — 8 couches",
+  "seed": "performance-v1",
+  "background": "#fffaf2",
+  "nextLayerNumber": 9,
+  "layers": [
+    {
+      "id": "layer-1",
+      "name": "Disque 1",
+      "visible": true,
+      "locked": false,
+      "rotationDeg": 0,
+      "style": {
+        "stroke": "#231f20",
+        "strokeWidth": 0.006,
+        "fill": "#e9a66f",
+        "opacity": 1
+      },
+      "kind": "disk",
+      "radius": 0.22
+    },
+    {
+      "id": "layer-2",
+      "name": "Fleur 2",
+      "visible": true,
+      "locked": false,
+      "rotationDeg": 7.5,
+      "style": {
+        "stroke": "#231f20",
+        "strokeWidth": 0.006,
+        "fill": "#e9a66f",
+        "opacity": 1
+      },
+      "kind": "flower",
+      "outerRadius": 0.72,
+      "innerRatio": 0.3,
+      "petalCount": 32
+    },
+    {
+      "id": "layer-3",
+      "name": "Anneau 3",
+      "visible": true,
+      "locked": false,
+      "rotationDeg": 10,
+      "style": {
+        "stroke": "#231f20",
+        "strokeWidth": 0.006,
+        "fill": "#e9a66f",
+        "opacity": 1
+      },
+      "kind": "circle-ring",
+      "orbitRadius": 0.72,
+      "circleRadius": 0.09,
+      "circleCount": 64
+    },
+    {
+      "id": "layer-4",
+      "name": "Disque 4",
+      "visible": true,
+      "locked": false,
+      "rotationDeg": 0,
+      "style": {
+        "stroke": "#231f20",
+        "strokeWidth": 0.006,
+        "fill": "#e9a66f",
+        "opacity": 1
+      },
+      "kind": "disk",
+      "radius": 0.22
+    },
+    {
+      "id": "layer-5",
+      "name": "Fleur 5",
+      "visible": true,
+      "locked": false,
+      "rotationDeg": 30,
+      "style": {
+        "stroke": "#231f20",
+        "strokeWidth": 0.006,
+        "fill": "#e9a66f",
+        "opacity": 1
+      },
+      "kind": "flower",
+      "outerRadius": 0.72,
+      "innerRatio": 0.3,
+      "petalCount": 32
+    },
+    {
+      "id": "layer-6",
+      "name": "Anneau 6",
+      "visible": true,
+      "locked": false,
+      "rotationDeg": 25,
+      "style": {
+        "stroke": "#231f20",
+        "strokeWidth": 0.006,
+        "fill": "#e9a66f",
+        "opacity": 1
+      },
+      "kind": "circle-ring",
+      "orbitRadius": 0.72,
+      "circleRadius": 0.09,
+      "circleCount": 64
+    },
+    {
+      "id": "layer-7",
+      "name": "Disque 7",
+      "visible": true,
+      "locked": false,
+      "rotationDeg": 0,
+      "style": {
+        "stroke": "#231f20",
+        "strokeWidth": 0.006,
+        "fill": "#e9a66f",
+        "opacity": 1
+      },
+      "kind": "disk",
+      "radius": 0.22
+    },
+    {
+      "id": "layer-8",
+      "name": "Fleur 8",
+      "visible": true,
+      "locked": false,
+      "rotationDeg": 52.5,
+      "style": {
+        "stroke": "#231f20",
+        "strokeWidth": 0.006,
+        "fill": "#e9a66f",
+        "opacity": 1
+      },
+      "kind": "flower",
+      "outerRadius": 0.72,
+      "innerRatio": 0.3,
+      "petalCount": 32
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export function createRenderScheduler(render:()=>void){let frame:number|null=null;return{schedule(){if(frame===null)frame=requestAnimationFrame(()=>{frame=null;render();});},cancel(){if(frame!==null)cancelAnimationFrame(frame);frame=null;}};}

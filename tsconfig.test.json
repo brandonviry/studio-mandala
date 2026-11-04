@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "tsBuildInfoFile": "./node_modules/.cache/tsconfig.test.tsbuildinfo",
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": false,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "strict": true,
+    "skipLibCheck": true,
+    "composite": true,
+    "types": [
+      "node",
+      "vitest/globals",
+      "@playwright/test",
+      "@wdio/globals/types",
+      "@wdio/mocha-framework",
+      "@wdio/native-types"
+    ]
+  },
+  "include": ["tests", "wdio.conf.ts", "src"]
+}
