@@ -4,6 +4,8 @@ Application desktop hors ligne pour générer et composer des mandalas à partir
 
 Le studio associe un moteur géométrique déterministe, un éditeur de calques et une coque native Tauri. Une composition peut être enregistrée dans un fichier `.mandala.json`, rouverte puis exportée en PNG 2048 ou 4096 pixels.
 
+![Aperçu de Studio Mandala](docs/apercu.png)
+
 ## Disponibilité
 
 | Version | Lien |
@@ -44,7 +46,8 @@ Toutes les couches partagent l’origine `(0, 0)`. Leur tableau est rendu de l�
 ## Installation
 
 ```powershell
-cd "K:\BrandonViryEl\rapport\linkedin\posts\05-coloribook\mandalat\02-superposition-couches"
+git clone https://github.com/brandonviry/studio-mandala.git
+cd studio-mandala
 npm install
 npx playwright install chromium
 ```
