@@ -1,0 +1,12 @@
+node_modules
+.git
+.vercel
+src-tauri/target
+src-tauri/gen
+coverage
+playwright-report
+test-results
+.vitest
+tests
+*.log
+*.tsbuildinfo

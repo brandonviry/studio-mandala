@@ -4,6 +4,16 @@ Application desktop hors ligne pour générer et composer des mandalas à partir
 
 Le studio associe un moteur géométrique déterministe, un éditeur de calques et une coque native Tauri. Une composition peut être enregistrée dans un fichier `.mandala.json`, rouverte puis exportée en PNG 2048 ou 4096 pixels.
 
+## Disponibilité
+
+| Version | Lien |
+| --- | --- |
+| Web (navigateur, sans installation) | [studio-mandala.vercel.app](https://studio-mandala.vercel.app) |
+| Desktop Windows (installateur) | [Dernière release GitHub](https://github.com/brandonviry/studio-mandala/releases/latest) |
+| Code source | [github.com/brandonviry/studio-mandala](https://github.com/brandonviry/studio-mandala) |
+
+La version web et la version desktop partagent exactement le même moteur et le même rendu ; la version web remplace simplement les dialogues natifs par un sélecteur de fichier et des téléchargements locaux.
+
 ## Fonctionnalités
 
 - Génération reproductible à partir d’une graine.
